@@ -2,14 +2,14 @@
 <h2 style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   Hey there! I'm Bhaskar Chandra Joshi
   <div>
-    <a href="https://twitter.com/joshi06041999" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="30" />
-    </a>
     <a href="https://www.linkedin.com/in/bhaskar-chandra-joshi-b3097b186/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="30" />
     </a>
     <a href="mailto:bhaskarjoshe@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="30" />
+    </a>
+    <a href="https://twitter.com/joshi06041999" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="30" />
     </a>
   </div>
 </h2>
