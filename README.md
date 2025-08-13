@@ -18,13 +18,13 @@
 
 
 
-<h3> 👨🏻‍💻 About Me </h3>
 <img 
   align="right" 
   alt="GIF" 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5cTBmbDkwa2xmNDF0OGZnOTJvcGE1ZTIxZW1kYXVqNW9kM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" 
   style="min-width: 250px; width: 25%; height: auto; border-radius:10px"
 />
+<h3> 👨🏻‍💻 About Me </h3>
 <ul>
   <li>🔭 &nbsp; Currently working as a <strong>Software Development Engineer</strong>.</li>
   <li>💼 &nbsp; Experienced in <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, and <strong>React.js</strong> for production-grade applications.</li>
