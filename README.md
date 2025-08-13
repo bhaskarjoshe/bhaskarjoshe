@@ -27,15 +27,18 @@
   style="min-width:150px; border-radius:10px;"
 />
 
-<ul>
-  <li>🔭 Currently working as a <strong>Software Development Engineer</strong>.</li>
-  <li>💼 Experienced in <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, and <strong>React.js</strong> for production-grade applications.</li>
-  <li>🤔 Exploring AI-powered automation, scalable backend systems, and modern frontend development.</li>
-  <li>🌱 Enthusiast in Large Language Models (LLMs), API integrations, and real-time communication systems.</li>
-  <li>🎓 First-class Computer Science graduate from DIT University, Dehradun.</li>
-  <li>✍️ Passionate about problem-solving, experimenting with new technologies, and contributing to open-source projects.</li>
-  <li>☕ Firm believer that a perfect cup of coffee pairs well with writing clean, maintainable code.</li>
-</ul>
+<div style="text-align: justify;">
+  <ul>
+    <li>🔭 Currently working as a <strong>Software Development Engineer</strong>.</li>
+    <li>💼 Experienced in <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, and <strong>React.js</strong> for production-grade applications.</li>
+    <li>🤔 Exploring AI-powered automation, scalable backend systems, and modern frontend development.</li>
+    <li>🌱 Enthusiast in Large Language Models (LLMs), API integrations, and real-time communication systems.</li>
+    <li>🎓 First-class Computer Science graduate from DIT University, Dehradun.</li>
+    <li>✍️ Passionate about problem-solving, experimenting with new technologies, and contributing to open-source projects.</li>
+    <li>☕ Firm believer that a perfect cup of coffee pairs well with writing clean, maintainable code.</li>
+  </ul>
+</div>
+
 
 
 
