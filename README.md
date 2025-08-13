@@ -23,7 +23,7 @@
   align="right" 
   alt="GIF" 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5cTBmbDkwa2xmNDF0OGZnOTJvcGE1ZTIxZW1kYXVqNW9kM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" 
-  style="min-width: 150px; width: 15%; height: auto; border-radius:10px"
+  style="min-width: 250px; width: 15%; height: auto; border-radius:10px"
 />
 <ul>
   <li>🔭 &nbsp; Currently working as a <strong>Software Development Engineer</strong>.</li>
