@@ -19,24 +19,23 @@
 <!-- About Me -->
 <h3>👨🏻‍💻 About Me</h3>
 
-<div style="display: flex; align-items: flex-start; gap: 15px;">
+<img 
+  align="right" 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5cTBmbDkwa2xmNDF0OGZnOTJvcGE1ZTIxZW1kYXVqNW9kM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
+  alt="GIF"
+  width="25%"
+  style="min-width:150px; border-radius:10px;"
+/>
 
-  <ul style="flex: 1; margin-top: 0;">
-    <li>🔭 Currently working as a <strong>Software Development Engineer</strong>.</li>
-    <li>💼 Experienced in <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, and <strong>React.js</strong> for production-grade applications.</li>
-    <li>🤔 Exploring AI-powered automation, scalable backend systems, and modern frontend development.</li>
-    <li>🌱 Enthusiast in Large Language Models (LLMs), API integrations, and real-time communication systems.</li>
-    <li>🎓 First-class Computer Science graduate from DIT University, Dehradun.</li>
-    <li>✍️ Passionate about problem-solving, experimenting with new technologies, and contributing to open-source projects.</li>
-    <li>☕ Firm believer that a perfect cup of coffee pairs well with writing clean, maintainable code.</li>
-  </ul>
-
-  <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5cTBmbDkwa2xmNDF0OGZnOTJvcGE1ZTIxZW1kYXVqNW9kM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
-    alt="GIF"
-    style="min-width: 150px; width: 25%; height: auto; border-radius: 10px;"
-  />
-</div>
+<ul>
+  <li>🔭 Currently working as a <strong>Software Development Engineer</strong>.</li>
+  <li>💼 Experienced in <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, and <strong>React.js</strong> for production-grade applications.</li>
+  <li>🤔 Exploring AI-powered automation, scalable backend systems, and modern frontend development.</li>
+  <li>🌱 Enthusiast in Large Language Models (LLMs), API integrations, and real-time communication systems.</li>
+  <li>🎓 First-class Computer Science graduate from DIT University, Dehradun.</li>
+  <li>✍️ Passionate about problem-solving, experimenting with new technologies, and contributing to open-source projects.</li>
+  <li>☕ Firm believer that a perfect cup of coffee pairs well with writing clean, maintainable code.</li>
+</ul>
 
 
 
