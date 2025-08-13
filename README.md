@@ -23,7 +23,7 @@
   align="right" 
   alt="GIF" 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5cTBmbDkwa2xmNDF0OGZnOTJvcGE1ZTIxZW1kYXVqNW9kM3p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" 
-  style="min-width: 250px; width: 15%; height: auto; border-radius:10px"
+  style="min-width: 250px; width: 25%; height: auto; border-radius:10px"
 />
 <ul>
   <li>🔭 &nbsp; Currently working as a <strong>Software Development Engineer</strong>.</li>
@@ -47,7 +47,7 @@
 
 <br>
 
-<p>
+<p style="display:flex; ">
   <a href="https://github.com/bhaskarjoshe">
     <img src="https://github-readme-stats.vercel.app/api?username=bhaskarjoshe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bhaskar's GitHub Stats" />
   </a>
